@@ -1,7 +1,8 @@
 FROM prom/prometheus
 
 
-Maintainer ayoubboulila@gmail.com
+Maintainer Ayoub Boulila <ayoubboulila@gmail.com>
+
 ADD prometheus.yml /etc/prometheus/
 
 
